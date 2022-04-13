@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Climat</string>
+    <string name="iso_pais">Code ISO du pays</string>
+    <string name="nombre_ciudad">Nom de la ville</string>
+    <string name="obtener_info">Obteneir des info</string>
+    <string name="temperatura">Température</string>
+    <string name="actual">Courant</string>
+    <string name="minima">Minimal</string>
+    <string name="maximo">Maximum</string>
+</resources>

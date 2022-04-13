@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="iso_pais">Country ISO code</string>
+    <string name="nombre_ciudad">City name</string>
+    <string name="obtener_info">Get info</string>
+    <string name="temperatura">Temperature</string>
+    <string name="actual">Current</string>
+    <string name="minima">Minimal</string>
+    <string name="maximo">Maximum</string>
+</resources>
