@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity {
             if(!isNetworkError){
                 switch(statusCode){
                     case 404:
-                        Log.d("Weather", "City not found");
+                        Log.d("Weather", "City not found aa");
                         break;
                     case 200:
                         runOnUiThread(()->{
